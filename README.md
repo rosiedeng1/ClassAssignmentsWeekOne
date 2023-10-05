@@ -2,14 +2,8 @@
 
 ## Description
 
-This project was created to edit the contents of a Marketing Agency website so that it can be easily understood/have a concise, accessible version. This includes modified parts of the HTML/CSS code. It solves the problem of functionality/so anyone can understand it. I learned a lot about semantic HTMLs and consildating the CSS selectors. The actual website is meant for people who need help with their business and how to help it be successful.
-
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+This project was created to edit the code (html and css parts) of a Marketing Agency website (Horiseon) so that 
+it can be organized to be easily understood and have a concise, accessible version. This includes modified parts of the HTML/CSS code. It solves the problem of organizing everything into a logical structure and functionality so anyone can understand what is happening in each part of the website. I learned a lot about semantic HTML elements, the proper structure of a webpage, and things like consildating the CSS selectors. The actual website is meant for people who need help with their business and how to help it be successful.
 
 ## Usage
 
